@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre o tema, estruturar o cont
 ## 🚀 Resultados
 O e-book apresenta um conteúdo simples com dicas práticas, demonstrando como gerenciar o estresse e a ansiedade criando uma rotina digital saudável.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/anapmourao/Natural-ou-Fake-Natty/blob/main/E-book%20Dicas%20Pr%C3%A1ticas%20para%20Gerenciar%20o%20Estresse%20e%20a%20Ansiedade%20na%20Era%20Digital.pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência nova, pois utilizei ferramentas de IA e ao mesmo tempo gerei um conteúdo exclusivo.
